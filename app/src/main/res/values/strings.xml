@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ramaadan Challenge</string>
+    <string name="poetry">ها هو شهرُ الصيامِ قد حلَّ بهجةٌ وسرورٌ يملأ الأمسياتِ يطيبُ الطعامُ ويزدادُ الجمالُ والقرآنُ يُرتلُ بحلاوةِ الكلام</string>
+    <string name="text">الجزء الاول</string>
+    <string name="_200">200 اية</string>
+    <string name="text2">سورة ال عمران</string>
+    <string name="text3">الجزء الثاني</string>
+    <string name="_286">286 اية</string>
+    <string name="text5">سورة البقرة</string>
+    <string name="_7">7 اية</string>
+    <string name="text8">سورة الفاتحة</string>
+    <string name="text0">قراءة القران الكريم</string>
+    <string name="text09">{شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآَنُ}</string>
+</resources>
